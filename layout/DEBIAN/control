@@ -1,0 +1,10 @@
+Package: com.mologie.dissector
+Name: Dissector
+Description: Attach runtime debuggers to any application. Currently, the popular runtime debuggers Spark Inspector and Reveal are supported. Configure Dissector through the preferences application.
+Version: 0.3
+Section: Development
+Maintainer: Oliver Kuckertz
+Author: Oliver Kuckertz
+Depends: firmware (>= 6), mobilesubstrate, preferenceloader, applist, com.mologie.dissector.sparkinspector, com.mologie.dissector.reveal
+Architecture: iphoneos-arm
+Priority: optional
