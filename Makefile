@@ -4,7 +4,7 @@
 #
 
 TWEAK_NAME = Dissector
-Dissector_FILES = Tweak.x
+Dissector_FILES = Dissector.x DSAlertViewHandler.m DSReveal.m DSSparkInspector.m
 Dissector_FRAMEWORKS = UIKit
 
 # Use make DEBUG=1 for building binaries which output logs

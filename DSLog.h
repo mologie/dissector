@@ -1,6 +1,10 @@
 /**
- * DSLog.h - enable logging if DEBUG is specified
- * Shamelessly copied from PreferenceLoader
+ * This file is part of Dissector
+ * Copyright 2013 Oliver Kuckertz <oliver.kuckertz@mologie.de>
+ * See COPYING for licensing information.
+ *
+ * This file has been shamelessly copied from PreferenceLoader.
+ * PreferenceLoader is licensed under the LGPLv3.
  */
 
 #pragma once
