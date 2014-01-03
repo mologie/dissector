@@ -1,7 +1,7 @@
 Package: com.mologie.dissector
 Name: Dissector
-Description: Attach runtime debuggers to any application. Currently, the popular runtime debuggers Spark Inspector and Reveal are supported. Configure Dissector through the preferences application.
-Version: 0.3
+Description: Attach runtime debuggers to any application. Supports Spark Inspector and Reveal. Configure Dissector through the preferences application.
+Version: 0.4
 Section: Development
 Maintainer: Oliver Kuckertz
 Author: Oliver Kuckertz
