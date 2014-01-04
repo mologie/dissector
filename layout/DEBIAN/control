@@ -3,8 +3,9 @@ Name: Dissector
 Description: Attach runtime debuggers to any application. Supports Spark Inspector and Reveal. Configure Dissector through the preferences application.
 Version: 0.4
 Section: Development
-Maintainer: Oliver Kuckertz
-Author: Oliver Kuckertz
+Maintainer: Oliver Kuckertz <oliver.kuckertz@mologie.de>
+Author: Oliver Kuckertz <oliver.kuckertz@mologie.de>
 Depends: firmware (>= 6), mobilesubstrate, preferenceloader, applist, com.mologie.dissector.sparkinspector, com.mologie.dissector.reveal
 Architecture: iphoneos-arm
 Priority: optional
+Tag: role::hacker
